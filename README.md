@@ -40,7 +40,9 @@ O jogo foi desenvolvido através do motor de jogo Unity e todos seus aquivos est
 
 [Assets](Assets)
 
-Caso queira aprimorar o jogo, basta clonar este ropositório e colar o conteudo da pasta "Assets" na pasta "Assets" de um novo projeto Unity.
+Caso queira aprimorar o jogo, basta clonar este repositório e colar o conteudo da pasta "Assets" na pasta "Assets" de um novo projeto Unity.
+ 
+    git clone https://github.com/GustavoMFreitas/PeNaLua
 
 ### Ideias de Aprimoramento
 
