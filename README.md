@@ -2,20 +2,14 @@
 
 [![Captura-de-tela-2023-11-12-162856.png](https://i.postimg.cc/Vsjh9qBD/Captura-de-tela-2023-11-12-162856.png)](https://postimg.cc/RqZG4nYH)
 
-Projeto desenvolvido como trabalho de conclusão de curso, trata-se de um serious game voltado para a reabilitação da dorsiflexão de tornozelo. Nele, tanto o jogo quanto seu controle foram desenvolvidos.
+Projeto desenvolvido como trabalho de conclusão de curso, trata-se de um serious game voltado para a reabilitação da dorsiflexão de tornozelo. Nele, tanto o jogo quanto seu controle foram desenvolvidos. A monografia desenvovilda pode ser encontrada no Repositório Institucional da Universidade Tecnológica Federal do Paraná (RIUT), caso for utilizar este sistema por gentileza referêncie o trabalho
 
 
 ## Controle
 
 O controle consiste em um pedal acoplado com um potenciômetro como sensor de entrada, e sua estrutura é impressa em 3D usando o material PETG. A coleta de dados é realizada por meio da biblioteca Arduino "Joystick.h", utilizando o microcontrolador Arduino Pro Micro.
 
-### Arquivos 3d:
 
-[Modelos](Models)
-
-### Lógica:
-
-[Código](Microcontroller)
 
 O circuito consiste na simples conexão do potenciômetro ao Arduino, com um fio no porta 5V, outro no GND, e o fio central em uma porta analógica.
 
@@ -49,3 +43,10 @@ Caso queira aprimorar o jogo, basta clonar este repositório e colar o conteudo 
 Sensor mais preciso: Utilização de acelerômetro ou requisição EMG para maior precisão.
 
 Aprimoramento do Jogo: Adição de mais fases e introdução de diferentes obstáculos.
+
+### Links
+[Monografia](http://repositorio.utfpr.edu.br/jspui/handle/1/33487)
+
+[Arquivos 3d](Models)
+
+[Código Pedal](Microcontroller)
