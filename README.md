@@ -17,7 +17,7 @@ Após o microcontrolador ser carregado com o [código](#links), basta acoplar o 
 
 ![Captura-de-tela-2023-11-30-102458.png](https://i.postimg.cc/pTYz1Ld5/Captura-de-tela-2023-11-30-102458.png)
 
-Ao finalizar o desenvolvimento, basta instalar o jogo e testá-lo.
+Ao finalizar o desenvolvimento, basta instalar o jogo [Pé na Lua 1.0](https://github.com/GustavoMFreitas/PeNaLua/releases/tag/Game) e testá-lo.
 
 ## Jogo
 
