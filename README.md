@@ -36,6 +36,7 @@ git clone https://github.com/GustavoMFreitas/PeNaLua
 ```
 
 ### Ideias de Aprimoramento
+Elementos que podem ser adicionados ao projeto para torná-lo mais abrangente e como um produto mais completo:
 
 - Sensor mais preciso: Utilização de acelerômetro ou requisição EMG para maior precisão.
 
