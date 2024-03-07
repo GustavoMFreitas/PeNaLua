@@ -23,7 +23,7 @@ Ao finalizar o desenvolvimento, basta instalar o jogo [Pé na Lua 1.0](https://g
 
 ## Jogo
 
-Utilize uma nave como personagem principal. O usuário tem controle sobre essa nave por meio do pedal, onde o movimento exercido no pedal é replicado no mundo virtual do jogo. Cada fase do jogo foi projetada para desafiar e aprimorar diferentes aspectos do movimento de dorsiflexão, proporcionando uma abordagem abrangente para a reabilitação. 
+Utiliza uma nave como personagem principal. O usuário tem controle sobre essa nave por meio do pedal, onde o movimento exercido no pedal é replicado no mundo virtual do jogo. Cada fase do jogo foi projetada para desafiar e aprimorar diferentes aspectos do movimento de dorsiflexão, proporcionando uma abordagem abrangente para a reabilitação. 
 
 O jogo é estruturado em seis fases distintas, cada uma exigindo movimentos específicos de dorsiflexão para desbloquear progressões. Destaca-se na sexta fase uma funcionalidade configurável, permitindo que o usuário crie fases personalizadas desenhando gráficos que determinam os desafios a serem enfrentados.
 
