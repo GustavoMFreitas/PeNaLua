@@ -3,7 +3,9 @@
 
 ![Captura-de-tela-2023-11-12-162856.png](https://i.postimg.cc/Vsjh9qBD/Captura-de-tela-2023-11-12-162856.png)
 
-Projeto desenvolvido como trabalho de conclusão de curso, trata-se de um serious game voltado para a reabilitação da dorsiflexão de tornozelo. Tanto o jogo quanto seu controle foram desenvolvidos. A monografia desenvolvida pode ser encontrada no [Repositório Institucional da Universidade Tecnológica Federal do Paraná (RIUT)](http://repositorio.utfpr.edu.br/jspui/handle/1/33487). Caso utilize este sistema, por gentileza, referencie o trabalho.
+Produto Tecnológico desenvolvido durante projeto de Trabalho de Conclusão de Curso "Aplicação de serious game controlado por biossinais para reabilitação da dorsiflexão do tornozelo" do curso de Engenharia de Computação da UTFPR - Campus Apucarana, sob orientação do professor [Dr. Daniel Prado de Campos](https://lattes.cnpq.br/2260564602839139).
+
+A monografia desenvolvida pode ser encontrada no [Repositório Institucional da Universidade Tecnológica Federal do Paraná (RIUT)](http://repositorio.utfpr.edu.br/jspui/handle/1/33487). Caso utilize este sistema, por gentileza, referencie o trabalho.
 
 ## Controle
 
