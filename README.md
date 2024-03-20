@@ -13,6 +13,7 @@ O controle consiste em um pedal acoplado com um potenciômetro como sensor de en
 
 O circuito consiste na simples conexão do potenciômetro ao Arduino, com um fio no porta 5V, outro no GND, e o fio central em uma porta analógica.
 
+
 ![Captura-de-tela-2023-11-30-100100.png](https://i.postimg.cc/W1KD9vp6/Captura-de-tela-2023-11-30-100100.png)
 
 Após o microcontrolador ser carregado com o [código](#links), basta acoplar o potenciômetro no pedal impresso, e ele estará em funcionamento. Para testar, vá para o Painel de Controle > Hardware e Sons > Dispositivos e Impressoras. Encontre o ícone do joystick, clique com o botão direito e vá em Configurações do controlador de jogo > Propriedades. Movimente o pedal e verifique se o eixo Z está sendo acionado. Se sim, o pedal está de fato em funcionamento.
@@ -21,6 +22,8 @@ Após o microcontrolador ser carregado com o [código](#links), basta acoplar o 
 
 Ao finalizar o desenvolvimento, basta instalar o jogo [Pé na Lua 1.0](https://github.com/GustavoMFreitas/PeNaLua/releases/tag/Game) e testá-lo.
 
+### Atenção:
+Na montagem do pedal, é necessário utilizar um método para fixar a parte superior no eixo com engrenagem, a fim de suportar a força de rotação nas engrenagens e evitar o giro falso no eixo. No projeto, um parafuso transversal foi aquecido e atravessou a estrutura para esse propósito.
 ## Jogo
 
 Utiliza uma nave como personagem principal. O usuário tem controle sobre essa nave por meio do pedal, onde o movimento exercido no pedal é replicado no mundo virtual do jogo. Cada fase do jogo foi projetada para desafiar e aprimorar diferentes aspectos do movimento de dorsiflexão, proporcionando uma abordagem abrangente para a reabilitação. 
