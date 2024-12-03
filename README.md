@@ -1,7 +1,7 @@
 
 # Pé na lua
 
-![Captura-de-tela-2023-11-12-162856.png](https://i.postimg.cc/Vsjh9qBD/Captura-de-tela-2023-11-12-162856.png)
+![Captura-de-tela-2023-11-12-162856.png](Images/Captura-de-tela-2023-11-12-162856.png)
 
 Produto Tecnológico desenvolvido durante projeto de Trabalho de Conclusão de Curso "Aplicação de serious game controlado por biossinais para reabilitação da dorsiflexão do tornozelo" do curso de Engenharia de Computação da UTFPR - Campus Apucarana, sob orientação do professor [Dr. Daniel Prado de Campos](https://lattes.cnpq.br/2260564602839139).
 
@@ -14,11 +14,11 @@ O controle consiste em um pedal acoplado com um potenciômetro como sensor de en
 O circuito consiste na simples conexão do potenciômetro ao Arduino, com um fio no porta 5V, outro no GND, e o fio central em uma porta analógica.
 
 
-![Captura-de-tela-2023-11-30-100100.png](https://i.postimg.cc/W1KD9vp6/Captura-de-tela-2023-11-30-100100.png)
+![Captura-de-tela-2023-11-30-100100.png](Images/Captura-de-tela-2023-11-30-100100.png)
 
 Após o microcontrolador ser carregado com o [código](#links), basta acoplar o potenciômetro no pedal impresso, e ele estará em funcionamento. Para testar, vá para o Painel de Controle > Hardware e Sons > Dispositivos e Impressoras. Encontre o ícone do joystick, clique com o botão direito e vá em Configurações do controlador de jogo > Propriedades. Movimente o pedal e verifique se o eixo Z está sendo acionado. Se sim, o pedal está de fato em funcionamento.
 
-![Captura-de-tela-2023-11-30-102458.png](https://i.postimg.cc/pTYz1Ld5/Captura-de-tela-2023-11-30-102458.png)
+![Captura-de-tela-2023-11-30-102458.png](Images/Captura-de-tela-2023-11-30-102458.png)
 
 Ao finalizar o desenvolvimento, basta instalar o jogo [Pé na Lua 1.0](https://github.com/GustavoMFreitas/PeNaLua/releases/tag/Game) e testá-lo.
 
